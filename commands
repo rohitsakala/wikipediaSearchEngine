@@ -1,0 +1,2 @@
+python main.py wiki-phase1-eval.xml
+python Externalmerge.py
