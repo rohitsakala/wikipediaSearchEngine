@@ -20,7 +20,6 @@ stopwords_dict = {}
 for i in words:
     stopwords_dict[i] = 1
 
-
 def process_query(q):
     temp = q.split(" ")
     a = []
