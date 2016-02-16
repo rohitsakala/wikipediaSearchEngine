@@ -1,0 +1,5 @@
+rm -r ./output/*
+rm -r ../Index/*
+rm -r ../Split/*
+python main.py enwiki-latest-pages-articles.xml 
+python treeDoc.py ../Index/MyIndex ../Index/MyTitle
