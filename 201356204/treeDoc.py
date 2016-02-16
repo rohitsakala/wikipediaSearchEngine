@@ -3,7 +3,6 @@ import sys
 import zlib
 import gzip
 
-
 ###################### Global Variables ###########################
 
 count = 1
